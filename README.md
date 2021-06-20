@@ -12,19 +12,19 @@ Frontend Application is a React Application\
 Backend Application is a Spring Boot Application
 ### `Requirements to run Backend Application` :
   Java 8 \
-  maven \
+  maven
 
 In memory Database is used in Backend Application for storing data. \
-Data remains in the database until Backend Application is not closed. \
+Data remains in the database until Backend Application is not closed.
 
 ## Backend Application Setup
 1. Open Eclipse\
-2. Import this project into eclipse workspace ( file -> import -> Existing maven project )\
+2. Import this project into eclipse workspace ( file -> import -> Existing maven project )
 3. Browse folder Url-Shortner-Application/ Backend\
-4. Eclipse will start setting up this maven application by downloading your required dependencies\
+4. Eclipse will start setting up this maven application by downloading your required dependencies
 5.  Once Setup is ready, Go to UrlshortnerApplication.java file in src/main/java/com/vivek/urlshortner package\
-6. Right click on main method and select Run as Java Application\
-7. Backend application will start on default embedded tomcat server at port 8080\
+6. Right click on main method and select Run as Java Application
+7. Backend application will start on default embedded tomcat server at port 8080
 
 ## Frontend Application Setup
 1. Open Visual code\
