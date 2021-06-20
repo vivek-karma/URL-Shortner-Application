@@ -40,5 +40,10 @@ Data remains in the database until Backend Application is not closed.
 
 Technologies used - Spring Boot, Spring REST, Spring JPA, H2 database, React, Redux, Bootstrap
 
+Note : 
+1. If only Frontend application is started, it will show Loading in table until Backend Application is not started. 
+2. Initially there is no data in the database, so empty urls table will be shown.
+3. Run both the applications on the local server (localhost).
+
 Thanks \
 Vivek Vishwakarma
