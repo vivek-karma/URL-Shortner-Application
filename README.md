@@ -8,13 +8,15 @@ Frontend Application is a React Application \
 Backend Application is a Spring Boot Application
 
 ### `Requirements to run Frontend Application` :
-  Node v16.3.0 used \
-  npm v6.14.7 used
+  - Node (v16.3.0 used) \
+  - npm (v6.14.7 used) \
+  - Visual Code IDE
 
 
 ### `Requirements to run Backend Application` :
-  Java 8 \
-  maven
+  - Java 8 \
+  - Maven \
+  - Eclipse IDE
 
 In memory Database is used in Backend Application for storing data. 
 Data remains in the database until Backend Application is not closed.
@@ -38,7 +40,7 @@ Data remains in the database until Backend Application is not closed.
 7. The above code will run the Application on port 3000
 8. Access the Application using localhost:3000 in Chrome Browser
 
-
+Technologies used - Spring Boot, Spring REST, Spring JPA, H2 database, React, Redux, Bootstrap
 
 Thanks \
 Vivek Vishwakarma
