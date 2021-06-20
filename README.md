@@ -4,12 +4,14 @@ ThisRepository Contains Frontend and Backend code for Url-Shortner-Application.
 
 Clone this git Repository into your computer.
 
-Frontend Application is a React Application
+Frontend Application is a React Application \
+Backend Application is a Spring Boot Application
+
 ### `Requirements to run Frontend Application` :
   Node v16.3.0 used \
-  npm 6.14.7 used
+  npm v6.14.7 used
 
-Backend Application is a Spring Boot Application
+
 ### `Requirements to run Backend Application` :
   Java 8 \
   maven
@@ -18,7 +20,7 @@ In memory Database is used in Backend Application for storing data.
 Data remains in the database until Backend Application is not closed.
 
 ## Backend Application Setup
-1. Open Eclipse\
+1. Open Eclipse
 2. Import this project into eclipse workspace ( file -> import -> Existing maven project )
 3. Browse folder Url-Shortner-Application/ Backend
 4. Eclipse will start setting up this maven application by downloading your required dependencies
