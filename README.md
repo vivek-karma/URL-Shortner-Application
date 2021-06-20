@@ -10,14 +10,14 @@ Frontend Application is a React Application\
   npm 6.14.7 used
 
 Backend Application is a Spring Boot Application
-###Requirements to run Backend Application :
-  Java 8\
-  maven\
-  \
-In memory Database is used in Backend Application for storing data.\
-Data remains in the database until Backend Application is not closed.\
+### `Requirements to run Backend Application` :
+  Java 8 \
+  maven \
 
-##Backend Application Setup
+In memory Database is used in Backend Application for storing data. \
+Data remains in the database until Backend Application is not closed. \
+
+## Backend Application Setup
 1. Open Eclipse\
 2. Import this project into eclipse workspace ( file -> import -> Existing maven project )\
 3. Browse folder Url-Shortner-Application/ Backend\
@@ -26,8 +26,7 @@ Data remains in the database until Backend Application is not closed.\
 6. Right click on main method and select Run as Java Application\
 7. Backend application will start on default embedded tomcat server at port 8080\
 
-
-##Frontend Application Setup
+## Frontend Application Setup
 1. Open Visual code\
 2. Open Url-Shortner-Application/ Frontend Folder in Visual code\
 3. Open cmd in Visual code (or open system cmd in the Url-Shortner-Application/ Frontend Folder)\
